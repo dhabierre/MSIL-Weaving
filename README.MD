@@ -15,6 +15,6 @@ Mono.Cecil est **LA** référence en la matière ! La plupart des outils et fram
 
 ## Workshops
 
-- [Mono.Cecil / Exemple simple](Workshop-Mono.Cecil-Simple/README.MD)
-- [Mono.Cecil / Exemple avancé](Workshop-Mono.Cecil-Advanced/README.MD)
-- [Fody](Workshop-Fody/README.MD)
+- [Mono.Cecil / Exemple simple](Workshop-Mono.Cecil-Simple/)
+- [Mono.Cecil / Exemple avancé](Workshop-Mono.Cecil-Advanced/)
+- [Fody](Workshop-Fody/)
