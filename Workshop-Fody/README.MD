@@ -187,4 +187,4 @@ Pour aller plus loin, on pourrait envisager d'enregistrer les temps d'exécution
 
 ### Remarque
 L'intercepteur par Fody est un exemple.
-Plusieurs autres frameworks et lirairies permettent de faire la même chose (PostSharp, Unity.Interception (@runtime), etc).
+Plusieurs autres frameworks et librairies permettent de faire la même chose (PostSharp, Unity.Interception (@runtime), etc).
